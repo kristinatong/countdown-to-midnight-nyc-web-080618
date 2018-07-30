@@ -1,2 +1,3 @@
-def countdown(integer)
+def countdown(int)
+  
 end
